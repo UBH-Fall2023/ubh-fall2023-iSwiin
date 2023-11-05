@@ -11,11 +11,11 @@ Welcome to ImageGPT project repository! This is an AI image generator built usin
 
 ### getting-started
 
-```bash
+```
 # Example command
 $ git clone https://github.com/UBH-Fall2023/ubh-fall2023-iSwiin.git
 
-```bash
+```
 
 ### `npm test`
 
