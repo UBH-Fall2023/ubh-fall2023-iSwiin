@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ubh-fall2023-iSwiin.iml" filepath="$PROJECT_DIR$/.idea/ubh-fall2023-iSwiin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-dalle-clone.iml" filepath="$PROJECT_DIR$/.idea/react-dalle-clone.iml" />
     </modules>
   </component>
 </project>
