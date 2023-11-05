@@ -1,18 +1,19 @@
-# Getting Started with Create React App
+# ImageGPT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to ImageGPT project repository! This is an AI image generator built using OpenAI's API. This repository contains the codebase for an AI model that translates user input prompts into visual outputs.
 
-## Available Scripts
+## Table Of Contents
 
-In the project directory, you can run:
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+### getting-started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+# Example command
+$ git clone https://github.com/UBH-Fall2023/ubh-fall2023-iSwiin.git
 
 ### `npm test`
 
