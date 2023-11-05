@@ -15,6 +15,8 @@ Welcome to ImageGPT project repository! This is an AI image generator built usin
 # Example command
 $ git clone https://github.com/UBH-Fall2023/ubh-fall2023-iSwiin.git
 
+```bash
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
