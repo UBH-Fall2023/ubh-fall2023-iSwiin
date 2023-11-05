@@ -12,15 +12,19 @@ Welcome to ImageGPT project repository! This is an AI image generator built usin
 ### getting-started
 
 ```
-# Example command
+
 $ git clone https://github.com/UBH-Fall2023/ubh-fall2023-iSwiin.git
 
 ```
 
-### `npm test`
+### usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+
+$ npm run start:frontend
+$ npm run start:backend
+
+```
 
 ### `npm run build`
 
